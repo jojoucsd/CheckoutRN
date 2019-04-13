@@ -7,6 +7,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/vector-icons": "^10.0.1",
     "accordion-collapse-react-native": "^0.1.9",
     "expo": "^32.0.0",
     "native-base": "^2.12.1",
