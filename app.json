@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Checkout",
+    "name": "CheckoutRN",
     "slug": "checkoutRN",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/jojoucsd/CheckoutRN"
   }
 }
